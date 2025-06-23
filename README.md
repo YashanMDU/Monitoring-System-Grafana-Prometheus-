@@ -1,10 +1,10 @@
-# 🔍 Monitoring System with Grafana, Prometheus, and Node Exporter
+#  Monitoring System with Grafana, Prometheus, and Node Exporter
 
 This project implements a complete, open-source monitoring and alerting system using **Grafana**, **Prometheus**, and **Node Exporter** on a Linux environment (tested on Kali Linux with Apple Silicon). It provides real-time system metrics visualization, proactive alerting, and infrastructure observability.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The goal of this project is to build a lightweight, extensible, and user-friendly monitoring stack for system administrators and cybersecurity professionals. It allows users to:
 
@@ -14,7 +14,7 @@ The goal of this project is to build a lightweight, extensible, and user-friendl
 
 ---
 
-## ⚙️ Components Used
+## ⚙Components Used
 
 | Tool          | Purpose                                   |
 |---------------|-------------------------------------------|
@@ -24,7 +24,7 @@ The goal of this project is to build a lightweight, extensible, and user-friendl
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ├── README.md
 ├── Grafana.pdf     # Full installation & configuration guide
@@ -32,7 +32,7 @@ The goal of this project is to build a lightweight, extensible, and user-friendl
 
 ---
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
 Detailed instructions for installation and configuration can be found in [`Grafana.pdf`](./Grafana.pdf). Key steps include:
 
@@ -64,7 +64,7 @@ Detailed instructions for installation and configuration can be found in [`Grafa
 
 ---
 
-## ✅ Features Implemented
+##  Features Implemented
 
 - Real-time system metrics collection
 - Custom dashboards for Linux performance
@@ -74,7 +74,7 @@ Detailed instructions for installation and configuration can be found in [`Grafa
 
 ---
 
-## 🚀 Skills Demonstrated
+##  Skills Demonstrated
 
 - Linux system administration
 - Metric-based monitoring and analysis
