@@ -14,7 +14,7 @@ The goal of this project is to build a lightweight, extensible, and user-friendl
 
 ---
 
-## ⚙Components Used
+## Components Used
 
 | Tool          | Purpose                                   |
 |---------------|-------------------------------------------|
@@ -56,6 +56,9 @@ Detailed instructions for installation and configuration can be found in [`Grafa
 ---
 
 ## 📊 Dashboard & Alerting
+
+![Grafana Dashboard](<img width="1436" alt="Grafana Dashboard Example" src="https://github.com/user-attachments/assets/667ccbd2-7ab0-49a2-8f4c-5bb21a9f9f28" />) 
+
 
 - Add Prometheus as a data source in Grafana
 - Import dashboards for real-time visualization
