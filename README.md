@@ -48,6 +48,11 @@ Detailed instructions for installation and configuration can be found in [`Grafa
 - Enable and start the Prometheus service
 - Access via `http://localhost:9090`
 
+<img width="581" alt="Screenshot 2025-06-23 at 7 37 36 PM" src="https://github.com/user-attachments/assets/9be292ff-d269-4e67-96da-6d48a1d38cb4" />
+
+
+  
+
 ### 🔹 Node Exporter Integration
 - Install Node Exporter and create a systemd service
 - Configure Prometheus to scrape Node Exporter at `localhost:9100`
@@ -71,10 +76,21 @@ Detailed instructions for installation and configuration can be found in [`Grafa
 ##  Features Implemented
 
 - Real-time system metrics collection
-- Custom dashboards for Linux performance
+<img width="1431" alt="Chart_1" src="https://github.com/user-attachments/assets/69e85976-4040-4088-b434-74b3f77ecf26" />
+
+  
+- Custom dashboards and can set time ranges for Linux performance
+<img width="655" alt="Time_Ranges" src="https://github.com/user-attachments/assets/c19af875-b835-436c-be37-3fc1e6fe4a2d" />
+
+  
+
+  
 - Alert rule configuration for CPU, memory, and more
 - Multiple notification channels
 - Systemd-based service management
+<img width="1416" alt="Chart_2" src="https://github.com/user-attachments/assets/90d89925-ff06-463e-bb6d-4f6baf981ab0" />
+
+  
 
 ---
 
