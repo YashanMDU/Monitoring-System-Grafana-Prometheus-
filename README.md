@@ -60,7 +60,7 @@ Detailed instructions for installation and configuration can be found in [`Grafa
 
 ---
 
-## 📊 Dashboard & Alerting
+## Dashboard & Alerting
 
 ![Grafana Dashboard] <img width="1436" alt="Grafana Dashboard Example" src="https://github.com/user-attachments/assets/4f1fd5fe-be8f-42c9-b919-7914d17ea2ef" />
 
